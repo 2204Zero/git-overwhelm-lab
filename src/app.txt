@@ -1,1 +1,2 @@
 Application initialized.
+Version: 1.0
